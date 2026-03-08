@@ -26,7 +26,8 @@ Reference `QWEN.md` for available slash commands and workflow.
 │   ├── product.md           # Product vision & roadmap
 │   ├── system.md            # Technical architecture
 │   └── changelog.md         # Version history
-├── scripts/                  # Automation scripts
+├── scripts/
+│   └── mcp-setup.md         # MCP servers configuration
 ├── specs/
 │   └── 001-feature-name/    # Feature specifications
 │       ├── spec.md

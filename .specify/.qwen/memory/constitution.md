@@ -164,6 +164,26 @@
 - Review skill guidelines before implementing features
 - Skills take precedence over personal coding preferences
 
+## MCP Servers
+
+This project uses **MCP (Model Context Protocol) servers** for enhanced capabilities:
+
+| MCP Server | Purpose | When to Use |
+|------------|---------|-------------|
+| **Context7** | Documentation lookup | Before implementing unfamiliar APIs |
+| **Sequential Thinking** | Structured problem-solving | Complex decisions, architecture, debugging |
+| **Playwright** | E2E testing, browser automation | Testing critical user flows |
+| **Chrome DevTools** | Browser debugging, performance | Performance profiling, network debugging |
+
+### MCP Usage Guidelines
+
+1. **Context7**: Use for API documentation and code examples
+2. **Sequential Thinking**: Use for multi-step problems and planning
+3. **Playwright**: Write tests for all critical paths
+4. **Chrome DevTools**: Profile and debug browser issues
+
+Configuration: See `.specify/.qwen/scripts/mcp-setup.md`
+
 ## Technical Decisions
 
 - All architectural decisions must align with these principles

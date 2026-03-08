@@ -57,3 +57,4 @@ All_Tracker_mobile/
 6. **Localization is mandatory** — all UI text must be in resource files (RU + EN)
 7. **English only for code** — variable names, comments, commits (no Russian in code)
 8. **Follow Vercel Agent Skills** — automatically apply relevant skills (React, UI, RN)
+9. **Use MCP servers** — Context7, Sequential Thinking, Playwright, Chrome DevTools
