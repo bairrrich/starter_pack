@@ -11,9 +11,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial project setup
 - Spec Kit methodology integration
 - Memory Bank structure
+- Vercel Agent Skills (5 skills)
+- MCP Servers configuration (Context7, Sequential Thinking, Playwright, Chrome DevTools)
+- Localization system (RU + EN)
+- Code style guide (English-only policy)
+- Design system (OKLCH, Tailwind, shadcn/ui)
+- README.md and MCP.md documentation
 
 ### Changed
-- Nothing yet
+- Updated constitution.md with Agent Skills and MCP principles
+- Updated QWEN.md with all guidelines
 
 ### Deprecated
 - Nothing yet
